@@ -1,6 +1,3 @@
-import org.w3c.dom.ls.LSOutput;
-
-import javax.imageio.stream.ImageInputStream;
 
 public class Table_of_9 {
     public  static void main(String args[])
